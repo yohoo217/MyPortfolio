@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5200" height="1100" viewBox="0 0 5200 1100" role="img" aria-label="Jyun-Yan Chen typographic panorama">
+  <defs>
+    <linearGradient id="wash" x1="0" x2="1">
+      <stop offset="0" stop-color="#57d8e5"/>
+      <stop offset=".32" stop-color="#d7ff44"/>
+      <stop offset=".66" stop-color="#9d83ff"/>
+      <stop offset="1" stop-color="#ff735d"/>
+    </linearGradient>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0V72" fill="none" stroke="#141414" stroke-opacity=".12" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="5200" height="1100" fill="url(#wash)"/>
+  <rect width="5200" height="1100" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="430" letter-spacing="-28">
+    <text x="90" y="540" fill="#141414">JYUN–YAN CHEN</text>
+    <text x="1650" y="1000" fill="none" stroke="#141414" stroke-width="8">WEB EXPERIENCE</text>
+    <text x="3390" y="470" fill="#f4f1e9">JYUN–YAN</text>
+  </g>
+  <g font-family="monospace" fill="#141414" font-size="54" font-weight="700">
+    <text x="120" y="835">INTERFACES → SYSTEMS → BUSINESS VALUE</text>
+    <text x="3770" y="790">DESIGN / BUILD / TEST / SHIP</text>
+  </g>
+</svg>
